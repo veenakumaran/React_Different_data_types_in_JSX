@@ -17,6 +17,7 @@ var obj ={                      //objects
 }
 
 
+var object = 100;
 // var fruitdesc=
 // {
 //   red : 'apple',
